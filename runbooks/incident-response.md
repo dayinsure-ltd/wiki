@@ -19,4 +19,4 @@
 6. Write a post-mortem for P1/P2
 
 ---
-[Runbooks](Runbooks.md) | [Deployments](Runbooks-Deployments.md)
+[Runbooks](README.md) | [Deployments](deployments.md)

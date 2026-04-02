@@ -4,11 +4,11 @@ Engineering documentation for the organisation.
 
 ## Contents
 
-- [Getting Started](Getting-Started.md)
-- [Infrastructure](Infrastructure.md)
-  - [Terraform](Infrastructure-Terraform.md)
-  - [Kubernetes](Infrastructure-Kubernetes.md)
-- [Runbooks](Runbooks.md)
-  - [Incident Response](Runbooks-Incident-Response.md)
-  - [Deployments](Runbooks-Deployments.md)
-- [Contributing](Contributing.md)
+- [Getting Started](getting-started/)
+- [Infrastructure](infrastructure/)
+  - [Terraform](infrastructure/terraform.md)
+  - [Kubernetes](infrastructure/kubernetes.md)
+- [Runbooks](runbooks/)
+  - [Incident Response](runbooks/incident-response.md)
+  - [Deployments](runbooks/deployments.md)
+- [Contributing](contributing/)

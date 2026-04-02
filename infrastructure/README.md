@@ -11,8 +11,8 @@ Overview of the infrastructure stack.
 
 ## Pages
 
-- [Terraform](Infrastructure-Terraform.md)
-- [Kubernetes](Infrastructure-Kubernetes.md)
+- [Terraform](terraform.md)
+- [Kubernetes](kubernetes.md)
 
 ---
-[Runbooks](Runbooks.md) | [Getting Started](Getting-Started.md)
+[Runbooks](../runbooks/) | [Getting Started](../getting-started/)
