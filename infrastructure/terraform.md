@@ -31,4 +31,4 @@ terraform apply -var-file="variables_dev.tfvars"
 - Install pre-commit hooks before committing — see the repo README
 
 ---
-[Infrastructure](README.md) | [Kubernetes](kubernetes.md)
+[Home](../README.md)

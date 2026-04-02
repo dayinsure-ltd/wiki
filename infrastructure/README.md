@@ -15,4 +15,4 @@ Overview of the infrastructure stack.
 - [Kubernetes](kubernetes.md)
 
 ---
-[Runbooks](../runbooks/) | [Getting Started](../getting-started/)
+[Home](../README.md)

@@ -44,4 +44,4 @@ chore: bump dependencies
 ```
 
 ---
-[Home](../README.md) | [Getting Started](../getting-started/)
+[Home](../README.md)

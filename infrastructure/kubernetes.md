@@ -37,4 +37,4 @@ helm rollback <release-name> <revision> -n <namespace>
 ```
 
 ---
-[Infrastructure](README.md) | [Terraform](terraform.md)
+[Home](../README.md)

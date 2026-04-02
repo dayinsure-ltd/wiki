@@ -36,4 +36,4 @@ kubectl logs <pod-name> -n <namespace> --previous
 ```
 
 ---
-[Runbooks](README.md) | [Incident Response](incident-response.md)
+[Home](../README.md)

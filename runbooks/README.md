@@ -8,4 +8,4 @@ Operational procedures for common tasks.
 - [Deployments](deployments.md)
 
 ---
-[Infrastructure](../infrastructure/) | [Home](../README.md)
+[Home](../README.md)
