@@ -1,16 +1,16 @@
-**[[Home]]**
+**[Home](Home.md)**
 
 **Getting Started**
-- [[Getting-Started|Getting Started]]
+- [Getting Started](Getting-Started.md)
 
 **Infrastructure**
-- [[Infrastructure]]
-- [[Infrastructure-Terraform|Terraform]]
-- [[Infrastructure-Kubernetes|Kubernetes]]
+- [Infrastructure](Infrastructure.md)
+- [Terraform](Infrastructure-Terraform.md)
+- [Kubernetes](Infrastructure-Kubernetes.md)
 
 **Runbooks**
-- [[Runbooks]]
-- [[Runbooks-Incident-Response|Incident Response]]
-- [[Runbooks-Deployments|Deployments]]
+- [Runbooks](Runbooks.md)
+- [Incident Response](Runbooks-Incident-Response.md)
+- [Deployments](Runbooks-Deployments.md)
 
-**[[Contributing]]**
+**[Contributing](Contributing.md)**

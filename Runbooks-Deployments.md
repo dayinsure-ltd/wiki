@@ -36,4 +36,4 @@ kubectl logs <pod-name> -n <namespace> --previous
 ```
 
 ---
-[[Runbooks]] | [[Runbooks-Incident-Response|Incident Response]]
+[Runbooks](Runbooks.md) | [Incident Response](Runbooks-Incident-Response.md)

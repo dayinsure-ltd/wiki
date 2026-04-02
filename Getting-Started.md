@@ -38,4 +38,4 @@ Install with Homebrew: `brew install <tool-name>`
 4. Join your team's Slack/Teams channel
 
 ---
-[[Infrastructure]] | [[Contributing]]
+[Infrastructure](Infrastructure.md) | [Contributing](Contributing.md)

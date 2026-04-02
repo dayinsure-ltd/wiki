@@ -12,7 +12,7 @@ git commit -m "docs: update <page name>"
 git push origin master
 ```
 
-To add a page, create a `.md` file and link to it from [[Home]] or the relevant section page.
+To add a page, create a `.md` file and link to it from [Home](Home.md) or the relevant section page.
 
 ## Repositories
 
@@ -44,4 +44,4 @@ chore: bump dependencies
 ```
 
 ---
-[[Home]] | [[Getting-Started|Getting Started]]
+[Home](Home.md) | [Getting Started](Getting-Started.md)

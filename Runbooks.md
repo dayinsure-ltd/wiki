@@ -4,8 +4,8 @@ Operational procedures for common tasks.
 
 ## Pages
 
-- [[Incident Response|Runbooks-Incident-Response]]
-- [[Deployments|Runbooks-Deployments]]
+- [Incident Response](Runbooks-Incident-Response.md)
+- [Deployments](Runbooks-Deployments.md)
 
 ---
-[[Infrastructure]] | [[Home]]
+[Infrastructure](Infrastructure.md) | [Home](Home.md)
